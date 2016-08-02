@@ -1,5 +1,4 @@
-This is the test repo
+Fizz all the Buzzes
+===
 
-isn't it swell?
-
-Another go...
+My attempt at counting to n in the fizz buzz style.
